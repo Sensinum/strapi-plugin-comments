@@ -83,6 +83,8 @@
     "@jest/types": "29.5.x",
     "@sensinum/strapi-utils": "^1.0.12",
     "@strapi/database": "^5.52.3",
+    "@strapi/design-system": "^2.0.0",
+    "@strapi/icons": "^2.0.0",
     "@strapi/plugin-graphql": "^5.52.3",
     "@strapi/plugin-users-permissions": "^5.52.3",
     "@strapi/sdk-plugin": "^5.4.0",
@@ -91,6 +93,7 @@
     "@types/jest": "^30.0.0",
     "@types/koa": "^2.15.0",
     "@types/minimatch": "3.0.5",
+    "@types/node": "^24",
     "@types/react": "^18.3.8",
     "@types/react-dom": "^18.3.0",
     "husky": "^9.1.7",
@@ -141,5 +144,6 @@
     "qs": "6.16.1",
     "nodemailer": "10.1.4",
     "zod": "4.6.7"
-  }
+  },
+  "packageManager": "yarn@4.10.3"
 }
